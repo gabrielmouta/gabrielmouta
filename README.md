@@ -11,7 +11,7 @@ Pronouns: He/Him, Ele/Dele
 <div style="display: inline_block">
   
   <img align="center" alt="R Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Shiny Logo" height="30" width="40" src="https://rstudio-education.github.io/shiny-course/images/shiny.png">
+  <img align="center" alt="Shiny Logo" height="20" width="40" src="https://rstudio-education.github.io/shiny-course/images/shiny.png">
   <img align="center" alt="AWS Logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg">
   
 </div>
