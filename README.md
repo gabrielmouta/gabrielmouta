@@ -9,6 +9,7 @@ Pronouns: He/Him, Ele/Dele
 
 ### My languages and tools:
 <div style="display: inline_block">
+  
   <img align="center" alt="R Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Stata  Logo" height="30" width="40" src="https://www.stata.com/includes/images/stata-logo-blue.svg">
@@ -17,6 +18,23 @@ Pronouns: He/Him, Ele/Dele
   <img align="center" alt="CSS  Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Ubuntu Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
 
+</div>
+
+### Things I'm actually learning:
+
+<div style="display: inline_block">
+  <img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="HTML Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS  Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Ubuntu Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+
+</div>
+
+### Things I've used in past, but don't use anymore:
+
+<div style="display: inline_block">
+    <img align="center" alt="Stata  Logo" height="30" width="40" src="https://www.stata.com/includes/images/stata-logo-blue.svg">
+  <img align="center" alt="SPSS  Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg">
 </div>
 
  ### Where to find me:
