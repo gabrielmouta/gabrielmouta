@@ -7,12 +7,13 @@ Currently working on <a href="https://www.instagram.com/labdatamanaus/">LabData<
 
 Pronouns: He/Him, Ele/Dele
 
-### My languages and tools:
+### Languages and tools that I'm actually working with:
 <div style="display: inline_block">
   
   <img align="center" alt="R Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-
-
+  <img align="center" alt="Shiny Logo" height="30" width="40" src="https://rstudio-education.github.io/shiny-course/images/shiny.png">
+  <img align="center" alt="AWS Logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg">
+  
 </div>
 
 ### Things I'm actually learning:
@@ -25,11 +26,13 @@ Pronouns: He/Him, Ele/Dele
 
 </div>
 
-### Things I've used in past, but don't use anymore:
+### Tools I've used in past, but don't use anymore:
 
 <div style="display: inline_block">
-    <img align="center" alt="Stata  Logo" height="30" width="40" src="https://www.stata.com/includes/images/stata-logo-blue.svg">
+   
+  <img align="center" alt="Stata  Logo" height="30" width="40" src="https://www.stata.com/includes/images/stata-logo-blue.svg">
   <img align="center" alt="SPSS  Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg">
+
 </div>
 
  ### Where to find me:
